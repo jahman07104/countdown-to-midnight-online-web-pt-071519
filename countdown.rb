@@ -9,10 +9,10 @@ while number > 0
 
 end  
 end
-counter = 0
-until counter == 1
+number = 0
+until number == 1
   puts "HAPPY NEW YEAR!"
-  counter += 1
+  number += 1
 end
 
 def countdown_with_sleep
