@@ -11,7 +11,7 @@ end
 end
 number = 0
 until number == 1
-  puts "HAPPY NEW YEAR!"
+  return "HAPPY NEW YEAR!"
   number += 1
 end
 
