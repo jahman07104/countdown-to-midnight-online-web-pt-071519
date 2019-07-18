@@ -4,4 +4,4 @@ def countdown
 
 
   
-assert_select_encoded
+end
