@@ -11,6 +11,6 @@ end
 end
 counter = 0
 until counter == 1
-  puts "HAPPY NEW YEAR."
+  puts "HAPPY NEW YEAR!"
   counter += 1
 end
