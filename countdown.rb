@@ -9,3 +9,8 @@ while number > 0
 
 end  
 end
+counter = 0
+until counter == 1
+  puts "happy New Year."
+  counter += 1
+end
